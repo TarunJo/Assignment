@@ -17,6 +17,7 @@ git push
 
 3. Deploy a static website using the same repo and add screen shot.
 => ss in same repo
+setting > pages > branch as master/main
 
 
 4. Difference between static and dynamic website.
