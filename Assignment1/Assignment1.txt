@@ -21,7 +21,7 @@ git push
 
 4. Difference between static and dynamic website.
 =>
-SL.NO	Static Web Page
+Static Web Page
 	In static web pages, Pages will remain same until someone changes it manually.
 	Static Web Pages are simple in terms of complexity.
 	In static web pages, Information are change rarely.
