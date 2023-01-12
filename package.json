@@ -1,0 +1,19 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarunJo/Assignment.git"
+  },
+  "author": "Tarun Joshi TarunJoshiji1@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarunJo/Assignment/issues"
+  },
+  "homepage": "https://github.com/TarunJo/Assignment#readme"
+}
