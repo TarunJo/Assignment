@@ -1,0 +1,58 @@
+1. explaing the architecture of nodejs
+=>
+call stack  -> node api   -> callback queue --
+(syncronus)   (asyncronus)                    |
+    ^                                         |
+     -----------------------------------------
+
+
+2. explain the feature of nodejs like non-blocking, synchronous, single threaded.
+=>
+non-blocking :- does not block complete code if error happens and run it.
+synchronous :- does not wait for a peice of code to run if it takes time.
+single threaded:- have only one call\main stack so it is single threaded.
+
+3. create a array and object in javascript and print it.
+=> 
+const arr= new Array("saab", "volvo", "BMW"); 
+const arr2= [];
+arr2[4]=5;
+console.log(arr);
+console.log(arr2);
+
+
+4. Nowadays how data is transferred between server and client?(explain about json)
+=>
+To define JSON, we can say it is a text-based, lightweight, and human-readable format
+for data exchange between clients and servers. JSON is derived from JavaScript and bears 
+a close resemblance to JavaScript objects, but it is not dependent on JavaScript.
+
+
+5. write program to show how to append, pop and sort elements in array in javascript.
+=>
+const arr=[];
+arr[0]=5;
+arr[2]=6;
+arr.pop();
+arr[4]=8;
+arr.sort();
+
+
+6. why should we use let in place of var in our javascript programs?
+=>
+var has global scope so it is not sutable for memory management and it is also
+have security issues due to it's scope where as, let has local scope which is much better.
+
+
+7. explain about all the primitive data types in javascript.
+=>
+JavaScript has seven types. Types are values that JavaScript can have:
+
+Number
+String
+Boolean
+Undefined
+Null
+Object
+Symbol
+
